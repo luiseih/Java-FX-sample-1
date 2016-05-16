@@ -14,3 +14,4 @@ Folders of interest:
 - dist: Includes the compiled program targeted for different environments (web app, local file...).
   If you are not sure which one to run, Android,jar is the file you are looking for. Notice that you need to have [Java](http://www.java.com/) installed on your computer.
 
+
